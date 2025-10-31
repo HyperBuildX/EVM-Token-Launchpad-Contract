@@ -4,6 +4,8 @@ XPAD is a next-generation **Ethereum-based token launchpad** inspired by the Sol
 
 Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 
+<img width="1893" height="903" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6ce3df8d-1120-4297-b8a5-fc7729946bd7" />
+
 ---
 
 ## 🌟 Key Features
