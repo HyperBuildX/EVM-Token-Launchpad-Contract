@@ -82,7 +82,7 @@ Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 ## 📈 **Platform Links**
 
 - Live Platform: [XPAD.fun](https://xpad.fun/)
-- Smart Contract Repository: *(https://github.com/HyperBuildX/EVM-Token-Launchpad-Contract)*
+- Deployed Smart Contract: [Live CA](https://etherscan.io/address/0x01ea841f961af744ed25e5d6f7cf791aebeaa3f8)
 
 ---
 
